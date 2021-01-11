@@ -3,8 +3,7 @@ This is a simple repository to find pi experimentally by generating random point
 
 # Procedure
 To do so we will generate random points in a 2*2 square, and then compare the areas of the square with
-that of the circle to find pi. (we use a 2*2 square so the radius of the circle is 1, therefore simplifying the
-equations of the area of the circle)
+that of the circle to find pi. (we use a 2*2 square so the radius of the circle is 1, therefore simplifying the equations of the area of the circle)
 Find pi by comparing the areas of a square and a circle
    a(square) = side²
    a(circle) = pi*r²
@@ -22,4 +21,4 @@ Following:
 # Execution
 >python FindPy.py 1000000
 
-Where 1000000 is the quantity of random points generated. The more random points generated the more accuraccy we obtain for pi.
+Where 1000000 is the quantity of random points generated. The more random points generated the more accurate pi.
