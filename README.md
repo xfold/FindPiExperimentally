@@ -3,13 +3,18 @@ This is a simple repository to find pi experimentally by generating random point
 
 # Procedure
 To do so we will generate random points in a 2x2 square, and then compare the areas of the square with
-that of the circle to find pi. (we use a 2x2 square so the radius of the circle is 1, therefore simplifying the equations of the area of the circle)
-Find pi by comparing the areas of a square and a circle
-   a(square) = side²
-   a(circle) = pi*r²
-Considering r = 1-->
-   a(square) = (1*2)² = 4
-   a(circle) = 1² * pi = pi
+that of the circle to find pi. (we use a 2x2 square so the radius of the circle is 1, therefore simplifying the equations of the area of the circle).
+
+Find pi by comparing the areas of a square and a circle:
+<ul>
+   <li>a(square) = side²</li>
+   <li>a(circle) = pi*r²</li>
+</ul>
+Considering r = 1:
+<ul>
+   <li>a(square) = (1*2)² = 4</li>
+   <li>a(circle) = 1² * pi = pi</li>
+</ul>
 
 Following:
 1) Randomly generate points (x,y) that fall within the limits 0<=x<=2
