@@ -21,4 +21,5 @@ Following:
 
 # Execution
 >python FindPy.py 1000000
+
 Where 1000000 is the quantity of random points generated. The more random points generated the more accuraccy we obtain for pi.
